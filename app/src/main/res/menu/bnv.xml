@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bnv_home"
+        android:icon="@drawable/ic_uil_home_alt"
+        android:title="Home"
+        />
+
+    <item android:id="@+id/bnv_transaction"
+        android:icon="@drawable/ic_uil_apps"
+        android:title="Discover"
+        />
+
+    <item android:id="@+id/bnv_cart"
+        android:icon="@drawable/ic_uil_shopping_bag"
+        android:title="Cart"
+        />
+
+    <item android:id="@+id/bnv_contact"
+        android:icon="@drawable/ic_uil_history"
+        android:title="History"
+        />
+
+</menu>
